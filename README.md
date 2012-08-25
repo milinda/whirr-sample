@@ -1,4 +1,4 @@
-whirr-sample
-============
+Apache Whirr Java API Samples
+=============================
 
-Apache Whirr Sample
+Sample code which shows usage of Apache Whirr to deploy Hadoop cluster on cloud.
